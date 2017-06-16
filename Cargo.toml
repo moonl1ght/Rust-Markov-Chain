@@ -1,0 +1,7 @@
+[package]
+name = "markov_chain"
+version = "0.1.0"
+authors = ["USER"]
+
+[dependencies]
+rand = { path = "./libs/rand"}
